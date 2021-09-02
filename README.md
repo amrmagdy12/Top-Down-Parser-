@@ -1,8 +1,11 @@
 # Top-Down-Parser-
 Compiler Design Course Main Project
 
-# Tokenization of Tokens 
+# 1  
+Tokenization of Tokens 
 
-# Implementation of Top Down Parsing Algorithm on Simple language named Tiny using C++
+# 2 
+Implementation of Top Down Parsing Algorithm on Simple language named Tiny using C++
 
-# Compilation Testing
+# 3 
+Compilation Testing
